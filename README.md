@@ -1,4 +1,4 @@
-# Working Websites for Fairfax County Public Schools
+# Working Game/Proxy Websites for Fairfax County Public Schools
 This list will be frequently updated. Feel free to bookmark the website.
 # Issues
 Report any new updates/errors in the "issues" tab. I will respond ASAP. 
